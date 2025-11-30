@@ -37,7 +37,7 @@ This tool classifies messages as **Spam** or **Ham** (legitimate).
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/JunYu1603/LLM-Fine-Tuning-Email-SMS-Spam-Classification.git
 cd spam-classifier
 ```
 
