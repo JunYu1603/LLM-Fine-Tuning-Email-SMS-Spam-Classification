@@ -1,11 +1,11 @@
-# 📧 CPU-Friendly Spam Classifier (Qwen-0.5B + LoRA)
+# CPU-Friendly Spam Classifier (Qwen-0.5B + LoRA)
 
 A lightweight, CPU-trainable solution for classifying SMS/Email spam using a fine-tuned Large Language Model (LLM).  
 This project demonstrates how to adapt a modern SLM — **Qwen2.5-0.5B-Instruct** — for SMS spam classification using **LoRA** on standard consumer hardware.
 
 ---
 
-## 📋 Table of Contents
+## Table of Contents
 1. [Project Overview](#project-overview)  
 2. [Setup & Installation](#setup--installation)  
 3. [Model Selection](#model-selection)  
@@ -161,7 +161,7 @@ Evaluated using 20% validation split and 50 samples from the test set.
 | **Spam** | 1.00 | 0.90 | 0.95 | 10 |
 | **Overall Accuracy** | **~98%** | — | — | — |
 
-### 📌 Understanding the Metrics
+### Understanding the Metrics
 
 #### **Precision**
 - **Ham Precision = 0.98**  
